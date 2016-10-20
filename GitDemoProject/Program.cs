@@ -11,6 +11,8 @@ namespace GitDemoProject
         static void Main(string[] args)
         {
             // Thay doi code lan 1
+
+            // Add more code
         }
     }
 }
